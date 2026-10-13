@@ -1,0 +1,27 @@
+1. From reviewing the website Data.gov it seems to be an official government database with thousands of datasets you can review based on what you're looking for.  
+
+2. The most view data set is "Supply Chain Greenhouse Gas Emission v1.3 by NAICS-6"  and it seems to be 30+ listed. 
+
+3. I think that these are tagged with Human Health because in someway shape or form it's related to that topic and shows the statistics of any human heath related issues or something that has heath care or maybe nutrition. 
+
+4. You can navigate addition datasets from the USDA by adding addition tag below the downloadable data. 
+
+6. I tried searching for my city, county and state and no organization returned for me. 
+
+7. When I searched the USDA datasets for “food composition,” the results mainly showed datasets about the nutritional content of foods, including nutrients, food descriptions, and dietary information
+
+When I searched for “nutrition,” the results expanded to include many more datasets. Data.gov showed 93 datasets for the general nutrition search, including information about diets, food consumption, obesity, and nutrition programs. Not all of these datasets were from the USDA. 
+
+
+a) What does this tell you?
+This shows that finding data sometimes requires searching with different keywords. Different terms can produce different results, even when they relate to the same topic. Searching for broader terms like “nutrition” can help you discover datasets that you might miss by searching only for “food composition.”
+
+8. When I search for butter on FoodData Central, I get results for different types of butter and food products. The results can include basic foods and branded products.
+
+The Foundation Foods download page contains food composition data, including:
+- Food descriptions: food names, characteristics, and identifying information.
+- Nutrient data: information about calories, protein, fats, carbohydrates, vitamins, minerals, and other food components.
+- Sample information: details about samples, where and when they were collected, and how they were analyzed.
+- Weights and portions: information about food weights and serving measurements.
+
+
