@@ -1,54 +1,52 @@
-Category: All categories
-
-Region,Milkshake: (2/1/24 - 2/28/25),Hamburger: (2/1/24 - 2/28/25)
-North Carolina,28%,72%
-South Carolina,24%,76%
-Kentucky,27%,73%
-Tennessee,25%,75%
-Alabama,26%,74%
-Indiana,27%,73%
-Utah,27%,73%
-Rhode Island,28%,72%
-Virginia,28%,72%
-Georgia,26%,74%
-Pennsylvania,28%,72%
-Ohio,26%,74%
-Illinois,26%,74%
-Oklahoma,22%,78%
-West Virginia,27%,73%
-Michigan,24%,76%
-Arkansas,24%,76%
-Florida,27%,73%
-Connecticut,26%,74%
-New Jersey,29%,71%
-Missouri,23%,77%
-Nevada,24%,76%
-Maryland,27%,73%
-Delaware,27%,73%
-Mississippi,22%,78%
-Louisiana,24%,76%
-Idaho,22%,78%
-Kansas,22%,78%
-Arizona,23%,77%
-Wisconsin,23%,77%
-Texas,22%,78%
-Iowa,22%,78%
-California,23%,77%
-North Dakota,21%,79%
-Minnesota,22%,78%
-Nebraska,20%,80%
-Oregon,20%,80%
-Colorado,21%,79%
-New York,25%,75%
-Washington,22%,78%
-New Hampshire,23%,77%
-Massachusetts,25%,75%
-New Mexico,20%,80%
-South Dakota,16%,84%
-Maine,20%,80%
-Wyoming,19%,81%
-Vermont,20%,80%
-Montana,16%,84%
-Alaska,17%,83%
-Hawaii,16%,84%
-District of Columbia,20%,80%
+Region,Milkshake: (2/1/24 - 2/28/25),Hamburger: (2/1/24 - 2/28/25),Breakup: (2/1/24 - 2/28/25)
+North Carolina,23%,64%,13%
+Alabama,23%,66%,11%
+South Carolina,22%,66%,12%
+Kentucky,24%,64%,12%
+Virginia,25%,62%,13%
+West Virginia,24%,63%,13%
+Indiana,23%,63%,14%
+Tennessee,21%,67%,12%
+Illinois,23%,62%,15%
+Ohio,22%,65%,13%
+Oklahoma,19%,69%,12%
+Utah,21%,66%,13%
+Georgia,23%,62%,15%
+Delaware,23%,64%,13%
+Rhode Island,23%,64%,13%
+Michigan,21%,66%,13%
+Arkansas,20%,68%,12%
+Missouri,20%,67%,13%
+Maryland,24%,62%,14%
+Connecticut,22%,63%,15%
+Texas,23%,64%,13%
+New Jersey,23%,61%,16%
+Arizona,21%,66%,13%
+Nevada,20%,67%,13%
+Mississippi,21%,68%,11%
+Pennsylvania,22%,62%,16%
+Florida,22%,63%,15%
+California,19%,67%,14%
+Kansas,19%,66%,15%
+Wisconsin,20%,67%,13%
+Idaho,19%,68%,13%
+Nebraska,19%,69%,12%
+North Dakota,18%,70%,12%
+Iowa,21%,65%,14%
+New York,21%,63%,16%
+Louisiana,19%,68%,13%
+Minnesota,18%,68%,14%
+Colorado,18%,68%,14%
+New Hampshire,19%,68%,13%
+Washington,19%,66%,15%
+Massachusetts,21%,61%,18%
+Oregon,17%,69%,14%
+Maine,19%,68%,13%
+South Dakota,14%,76%,10%
+New Mexico,17%,69%,14%
+Wyoming,17%,70%,13%
+Vermont,17%,69%,14%
+Montana,14%,74%,12%
+Hawaii,14%,73%,13%
+Alaska,15%,71%,14%
+District of Columbia,17%,67%,16%
