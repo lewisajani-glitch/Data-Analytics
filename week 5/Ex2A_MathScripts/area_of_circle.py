@@ -1,4 +1,3 @@
-#Q1 
 import math
 
 diameter = 11
